@@ -559,7 +559,7 @@ export default {
       }
       // this.info.jump.name = result.jump_name
       this.info.jump.type = result.jump_type
-      this.
+      // this.
       this.info.from_type = result.from_type
       this.info.value = result.value
       this.qrcodeId = result.id
